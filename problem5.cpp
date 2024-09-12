@@ -5,10 +5,12 @@
      float s;
      float m;
      cin >> m,s;
-     int(m*30.48>s); {
-     cout<<1<<endl;
-
+     if (m*30.48>s) {
+         cout <<1<< endl;
+     }
+     else{
+         cout<<0<<endl;
      }
      return 0;
-
  }
+
