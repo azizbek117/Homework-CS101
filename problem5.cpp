@@ -4,8 +4,7 @@
 int main() {
     float s;
     float m;
-    cin >>m;
-    cin >>s;
+    cin>>s>>m;
     if (s>m*30.48) {
         cout <<0;
     }
