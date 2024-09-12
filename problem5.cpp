@@ -7,7 +7,7 @@
  int main() {
      float s;
      float m;
-     cin >> m,s;
+     cin >> s,m;
      if(m*30.48>s) {
          cout<<1<<endl;
      } else {
