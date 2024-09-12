@@ -5,7 +5,8 @@
  int main() {
      float s;
      float m;
-     cin >>m,s;
+     cin >>m;
+     cin >>s;
      if (m*30.48<s) {
          cout <<0;
      }
