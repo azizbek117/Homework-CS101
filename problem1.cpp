@@ -10,7 +10,9 @@ int main() {
     int value1=a-b-c;
     int value2=b*c-a;
     int value3=2*b-c+5*a;
-    cout << value1 << " " << value2 << " " << value3 << endl;
+    cout << value1 <<endl;
+    cout << value2 <<endl;
+    cout << value3 << endl;
 
     return 0;
 }
