@@ -10,6 +10,6 @@ int main() {
 
     float value1 = C*9/5+32;
 
-    cout<<"The tempurture in Farenheit is equal to " <<value1<<endl;
+    cout<<"The temperature in Farenheit is equal to " <<value1<<endl;
     return 0;
 }
